@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Robofriends/static/css/main.5ea449a0.chunk.css",
+    "main.js": "/Robofriends/static/js/main.47e4f9b5.chunk.js",
+    "main.js.map": "/Robofriends/static/js/main.47e4f9b5.chunk.js.map",
+    "runtime-main.js": "/Robofriends/static/js/runtime-main.235c1e16.js",
+    "runtime-main.js.map": "/Robofriends/static/js/runtime-main.235c1e16.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Robofriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f0d44eb8.chunk.js": "/Robofriends/static/js/2.f0d44eb8.chunk.js",
+    "static/js/2.f0d44eb8.chunk.js.map": "/Robofriends/static/js/2.f0d44eb8.chunk.js.map",
+    "index.html": "/Robofriends/index.html",
+    "precache-manifest.34340d3721554b76fd123d2039fc473a.js": "/Robofriends/precache-manifest.34340d3721554b76fd123d2039fc473a.js",
+    "service-worker.js": "/Robofriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Robofriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5ea449a0.chunk.css.map": "/Robofriends/static/css/main.5ea449a0.chunk.css.map",
+    "static/js/2.f0d44eb8.chunk.js.LICENSE": "/Robofriends/static/js/2.f0d44eb8.chunk.js.LICENSE",
+    "static/media/App.css": "/Robofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.235c1e16.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f0d44eb8.chunk.js",
+    "static/css/main.5ea449a0.chunk.css",
+    "static/js/main.47e4f9b5.chunk.js"
+  ]
+}
